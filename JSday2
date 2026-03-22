@@ -1,0 +1,13 @@
+const name = function();{
+console.log("藤原拓海です");
+}
+function();
+
+//藤原拓海ですとでる。
+
+const toMinutes = (hour,minute)=>{
+  return hour*60 + minute;
+}
+const result = toMinutes(3,40);
+console.log(`${result}分です`);
+//220分ですと表示される
