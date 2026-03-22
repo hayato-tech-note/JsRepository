@@ -1,4 +1,4 @@
-JSREADME
+JSノート
 
 console.log();  表示する。
 A==a A===A  2つは文字形式は問わない　3つは完全一致　！で否定
