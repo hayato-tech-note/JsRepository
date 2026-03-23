@@ -51,5 +51,26 @@ const half = (number) => {
 const result = half(130);
 console.log(`130の半分は${result}です`);
 
+オブジェクト
+const name = {
+プロパティ名：() =>{
+console.log();
+}
+};
+name.プロパティ名();
+
+クラス
+class User{
+  constructor(){
+    console.log("こんにちは");
+  }
+}
+const user = new User(){}　→こんにちはが実行
+console.log(user); →  User{}　→空
+
+
+
+
+
 
 
